@@ -1,0 +1,9 @@
+div{
+	background: #000;
+	padding: 30px;	
+}
+.input-prueba{
+	border: 1px solid blue;
+	border-radius: 3px;
+	padding: 6px;
+}
