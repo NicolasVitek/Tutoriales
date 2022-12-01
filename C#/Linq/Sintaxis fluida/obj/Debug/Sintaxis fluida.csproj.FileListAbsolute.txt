@@ -1,7 +1,0 @@
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\bin\Debug\Sintaxis fluida.exe.config
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\bin\Debug\Sintaxis fluida.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\bin\Debug\Sintaxis fluida.pdb
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\obj\Debug\Sintaxis fluida.csprojAssemblyReference.cache
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\obj\Debug\Sintaxis fluida.csproj.CoreCompileInputs.cache
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\obj\Debug\Sintaxis fluida.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Sintaxis fluida\obj\Debug\Sintaxis fluida.pdb

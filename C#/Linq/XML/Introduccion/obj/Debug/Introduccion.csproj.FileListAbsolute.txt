@@ -1,6 +1,0 @@
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\bin\Debug\Introduccion.exe.config
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\bin\Debug\Introduccion.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\bin\Debug\Introduccion.pdb
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\obj\Debug\Introduccion.csproj.CoreCompileInputs.cache
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\obj\Debug\Introduccion.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\XML\Introduccion\obj\Debug\Introduccion.pdb

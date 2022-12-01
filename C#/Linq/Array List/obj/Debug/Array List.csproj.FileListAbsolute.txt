@@ -1,7 +1,0 @@
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\bin\Debug\Array List.exe.config
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\bin\Debug\Array List.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\bin\Debug\Array List.pdb
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\obj\Debug\Array List.csprojAssemblyReference.cache
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\obj\Debug\Array List.csproj.CoreCompileInputs.cache
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\obj\Debug\Array List.exe
-C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Array List\obj\Debug\Array List.pdb
