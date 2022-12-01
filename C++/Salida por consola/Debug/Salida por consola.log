@@ -1,0 +1,6 @@
+﻿  Salida por consola.cpp
+C:\Users\pc\OneDrive\Facultad\Proyectos\Tutorial C++\Salida por consola\Salida por consola.cpp(11,10): warning C4101: 'boleado': variable local sin referencia
+C:\Users\pc\OneDrive\Facultad\Proyectos\Tutorial C++\Salida por consola\Salida por consola.cpp(10,12): warning C4101: 'doble': variable local sin referencia
+C:\Users\pc\OneDrive\Facultad\Proyectos\Tutorial C++\Salida por consola\Salida por consola.cpp(9,11): warning C4101: 'flotante': variable local sin referencia
+C:\Users\pc\OneDrive\Facultad\Proyectos\Tutorial C++\Salida por consola\Salida por consola.cpp(8,10): warning C4101: 'caracter': variable local sin referencia
+  Salida por consola.vcxproj -> C:\Users\pc\OneDrive\Facultad\Proyectos\Tutorial C++\Debug\Tipos de datos.exe
