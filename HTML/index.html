@@ -1,0 +1,77 @@
+<!-- Este lenguaje se maneja con etiquetas y hay de dos tipos: las que se cierran y las que no -->
+<boton color="rojo" tamaño= "grande" borde="negro"></boton>
+<br>		<!-- Estiqueta de salto de linea -->
+<!DOCTYPE html><!-- Indica la version mas reciente de html -->
+<html>
+<head>
+	<!-- Dentro de esta etiqueta se encuentra todo lo que se no se ve en la pagina como el titulo -->
+	<title>Primera pagina web</title>
+	<!-- Cambia la codificacion de la pagina para que acepte acentos -->
+	<meta charset="utf-8">
+	<meta name="author" content="Nicolas">
+	<meta name="description" content="Tutorial ">
+</head>
+<body>
+	<!-- Aqui se muestra todo lo que se ve -->
+	<h1>Hola mundo</h1><!-- Etiqueta de titulo. Estas etiquetas completan la linea y se ajusta al tamaño de la etiqueta que la contiene -->
+	<div>
+		<h2>Aca va la imagen</h2>
+		<!-- Como este lenguaje no es para que "quede lindo, no es recomendable cambiar el tamaño de la imagen aqui" -->
+		<img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2020/01/hipertextual-star-wars-deseo-mas-grande-darth-vader-podria-hacerse-realidad-muy-pronto-2020659163.jpg?fit=2048%2C1365&ssl=1_400x400" width="400" alt="Imagen no encontrada" title="Darth Vader">
+		<h3>Aqui va a un video</h3>
+		<video src="video.mp4" controls="" width="400"></video>
+		<br>
+		<audio src="video.mp4" controls=""></audio>
+		<br>
+		<a href="#tabla">Click aqui para ir a la tabla</a>
+	</div>
+	<h4>Hola mundo</h4>
+	<h5>Hola mundo</h5>
+	<h6>Hola mundo</h6>	
+	<p><!-- Etiqueta de texto -->
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.<br> 
+		Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		<!-- Estas etiquetas se ajustan a su tamaño -->
+		<b>Negrita</b>
+		<i>Italica</i>
+		<strike>Tachada</strike>
+	</p>
+	<a href="pagina2.html" target="_blank">Click aqui</a>
+	<ul><!-- Lista desordenada -->
+		<li>Leche</li>
+		<li>Harina</li>
+		<li>Pan</li>
+		<li>Carne</li>
+	</ul>
+	<ol><!-- Lista ordenada -->
+		<li>Leche</li>
+		<li>Harina</li>
+		<li>Pan</li>
+		<li>Carne</li>
+	</ul>
+	<form>
+		<input type="text" name="nombre" value="">
+		<input type="text" name="apellido" value="">
+		<input type="number" name="dni" required value="">
+		<input type="email" name="email">
+		<input type="button" value="Boton">
+		<input type="submit" name="">
+	</form>
+	<h3 id="tabla">Tabla de datos</h3>
+	<table border="1">
+		<tr>
+			<td>Nombre</td>
+			<td>Apellido</td>
+		</tr>
+		<tr>
+			<td>Nicolas</td>
+			<td>Vitek</td>
+		</tr>
+	</table>
+</body>
+</html>

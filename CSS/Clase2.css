@@ -1,0 +1,18 @@
+.cont{
+	margin: auto;
+	margin-top: 50px;
+	border: 4px solid red;
+	background: grey;
+	width: 50%;
+	padding: 20px;
+}
+.cont img{
+	width: 200px;
+	height: 200px;
+	float: right; /*Con esta utilidad la imagen se ajusta al texto*/
+	border: 2px solid blueviolet;
+}
+p{
+	float: left;
+	width: 50%;
+}

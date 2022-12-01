@@ -1,0 +1,39 @@
+.container{
+
+	background: slateblue;
+	padding: 20px 5px;
+}
+.caja{
+	background: red;
+	height: 100px;
+	width: 100px;
+	transition-property: background;
+	transition-duration: 1s;
+	transition-delay: 1s;
+	margin: 30px;
+	border: 2px solid black;
+	left: 0;
+	position: relative;
+
+}
+
+.container:hover >.caja{ /*Cuando ponga el puntero en el contenedor las cajas...*/
+	background: lawngreen;
+}
+
+.caja:first-child{
+	transition-timing-function: linear;
+}
+.caja:nth-child(2){
+	transition-timing-function: ease;	
+}
+
+.caja:nth-child(3){
+	transition-timing-function: ease-in;
+}
+.caja:nth-child(4){
+	transition-timing-function: ease-out;
+}
+.caja:nth-child(5){
+	transition-timing-function: ease-in-out;
+}

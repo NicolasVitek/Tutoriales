@@ -1,0 +1,29 @@
+
+.flex-container{
+	visibility: hidden;
+	display: flex;	
+}
+.flex-container2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;	
+}
+.caja{	
+	padding: 10px;
+	margin: 10px;
+	background-color: #248;
+	color: blueviolet;
+}
+.vacias{
+	height: 120px;
+	width: 120px;
+	background-color: #248;
+		padding: 10px;
+	margin: 10px;
+}
+.primera{
+	background-color: orange;
+}
+.ultima {
+	background-color: green;
+}

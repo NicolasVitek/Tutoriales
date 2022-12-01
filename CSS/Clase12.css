@@ -1,0 +1,29 @@
+.container{
+
+	background: slateblue;
+	padding: 20px 5px;
+}
+.caja{
+	background: red;
+	height: 100px;
+	width: 100px;
+	animation-name: desplazarse;
+	animation-duration: 3s;
+	position: relative;
+	animation-iteration-count: 3; /*Cuantas veces se repite la animacion*/
+	animation-fill-mode: none; /*Como queda al terminar la animacion*/
+}
+@keyframes desplazarse{
+	0%{
+	left: 0;
+	background: #025;	
+		}
+
+	50%{
+		background: red;
+	}	
+	100%{
+		left: 80%;
+		background: green;
+	}
+}

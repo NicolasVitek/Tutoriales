@@ -1,0 +1,21 @@
+.container{
+
+	background: slateblue;
+}
+
+:root{
+	--color-rojo: #f40 /*Variable global*/
+}
+div{
+	width: 150px;
+	height: 150px;
+	padding: 30px;
+	margin: 30px;
+}
+
+.container-2{
+	background: var(--color-rojo);
+}
+
+
+

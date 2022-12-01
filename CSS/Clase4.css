@@ -1,0 +1,42 @@
+.caja1 img{
+	width: 100%;
+	height: 100%;
+	border: 2px solid red;
+	object-fit: contain; /*La resolucion de la imagen se ajusta al contenido*/
+
+}
+.caja1
+{
+	margin: 25px;
+	width: 300px;
+	height: 500px;
+	display: flex;
+	background: rgb(23, 100, 60); /*Mezcla de de rojo, verde azull de 0 a 255*/
+}
+.caja2 img{
+	width: 100%;
+	height: 100%;
+	border: 2px solid red;
+	object-fit: cover; /*La resolucion de la imagen se ajusta a la caja recortando los bordes*/
+	cursor: pointer;
+
+}
+.caja2
+{
+	margin: 25px;
+	width: 300px;
+	height: 500px;
+	display: flex;
+
+}
+div	{
+	width: 45%;
+	display: inline-block;
+	}
+/*Cuando la pantalla alcance resoluciones menores de 800px
+*/@media only screen and(max-width:800px ){
+	div{
+		display: block;
+		width: 100%;
+	}
+}

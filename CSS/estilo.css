@@ -1,0 +1,81 @@
+/*La estructura de css es */
+/*selector se refiere a lo que se quiere cambiar{
+	propiedad se refiere al aspecto del selector que se quiere alterar=valor;
+}
+La norma de cascada nos indica que el cambio hecho al final de este archivo es el que prevalece
+unicamente usando el mismo tipo de selector. Pero hay tipos de selectores con mas jerarquia que otros
+si hay varios en el mismo nivel, ahi si se resuelve por cascada.
+
+*/
+* /*es un selector universal*/{
+	color: red;
+}
+h1/* es un selector de tipo*/{
+
+	font-size: 50px;
+	color: blue;
+	position: fixed;
+	opacity: 0.4;
+	margin: -100px ;
+}
+.titulo_h2 /*es un selector de clase*/ {
+	color: green;
+}
+#h3_id /*es un selector de id*/ {
+	color: greenyellow;
+}
+[atributo="algo"] /*es un selector de atributo*/{
+	color: lightblue;
+}
+h2 p{/*es un selector descendente, solo cambia los p dentro de los h2*/
+	color: yellow;
+}
+p:hover{/*es un selector de seudoclase*/
+	color: greenyellow;	
+}
+/*Dentro de la "caja" form, cualquiera propiedad que se pueda medir seteada en cualquiera valor
+en este caso 20pixeles, toma este valor como 1 em*/
+.form{
+	font-size: 20px;
+}
+.form__h2{
+	font-size:1em;
+	font-family: georgia;
+	font-weight: normal;
+	font-size: normal;
+	font-stretch: normal;
+	font-variant: small-caps;
+	background-color: blueviolet;
+	display: inline-block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 30px;
+}
+div{
+	width: 120px;
+	height: 120px;
+	display: block;
+	background: yellow;
+}
+.caja1{
+	background-color: orange;
+}
+.caja2{
+	background-color: darkblue;
+	position: relative; /*Si la caja se mueve, su posicion original se conserva*/
+	top: 20px;
+}
+.caja3{
+	background-color: aquamarine;
+}
+.caja4{
+	background-color: greenyellow;
+}
+body{
+	padding-top: 100px;
+}
+
+
+
+

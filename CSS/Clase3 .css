@@ -1,0 +1,61 @@
+.texto{
+	padding: 20px;
+}
+.texto::first-line{
+	color: blueviolet;
+}
+.texto::first-letter{
+	font-size: 10em;
+}
+form{
+	margin: 100px auto;
+	display: block;
+	padding: 20px;
+	padding-right: 40px;
+	width: 50%;
+	background-color: #555;
+}
+input{
+	padding: 6px;
+	width: 100%;
+}
+input::placeholder{
+	color: red;
+}
+input::selection{
+	color: darkred;
+	background-color: yellow;
+}
+b::before{
+	content: "Texto ingresando al principio del parrafo ";
+	color: cadetblue;
+}
+b::after{
+	content:" Texto ingresaddo al final de parrafo";
+	color: yellow ;
+}
+.caja1{
+	height: 200px;
+	weight: 200px;
+	background: greenyellow;
+	/*Para que el cambio sea mas lento*/
+	transition: all 1s
+}
+.caja1:hover{
+	background: red;
+	height: 50px;
+	weight: 50px;
+} 
+.caja1:active{
+	background: yellow;
+}
+
+.enlace:link{
+	color: red;
+}
+.enlace:visited{
+	color: violet;
+}
+a {
+	color: gren !important 
+}
