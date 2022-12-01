@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\bin\Debug\Subquery.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\bin\Debug\Subquery.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\bin\Debug\Subquery.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\obj\Debug\Subquery.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\obj\Debug\Subquery.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\obj\Debug\Subquery.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Subquery\obj\Debug\Subquery.pdb
