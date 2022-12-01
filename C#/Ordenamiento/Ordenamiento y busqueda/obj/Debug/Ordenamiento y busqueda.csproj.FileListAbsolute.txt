@@ -1,0 +1,7 @@
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\bin\Debug\Ordenamiento y busqueda.exe.config
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\bin\Debug\Ordenamiento y busqueda.exe
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\bin\Debug\Ordenamiento y busqueda.pdb
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\obj\Debug\Ordenamiento y busqueda.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\obj\Debug\Ordenamiento y busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\obj\Debug\Ordenamiento y busqueda.exe
+C:\Users\Nicolas\source\repos\Ordenamiento\Ordenamiento y busqueda\obj\Debug\Ordenamiento y busqueda.pdb
