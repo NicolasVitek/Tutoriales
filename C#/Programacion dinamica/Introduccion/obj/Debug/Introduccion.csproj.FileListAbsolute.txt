@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\bin\Debug\Introduccion.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\bin\Debug\Introduccion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\bin\Debug\Introduccion.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\obj\Debug\Introduccion.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\obj\Debug\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\obj\Debug\Introduccion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Introduccion\obj\Debug\Introduccion.pdb

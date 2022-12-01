@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\bin\Debug\Problema de monedas.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\bin\Debug\Problema de monedas.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\bin\Debug\Problema de monedas.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\obj\Debug\Problema de monedas.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\obj\Debug\Problema de monedas.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\obj\Debug\Problema de monedas.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Coeficiente binominal\Problema de monedas\obj\Debug\Problema de monedas.pdb

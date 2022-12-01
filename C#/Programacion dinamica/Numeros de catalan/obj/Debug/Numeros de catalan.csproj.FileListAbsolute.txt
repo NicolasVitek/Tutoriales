@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\bin\Debug\Numeros de catalan.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\bin\Debug\Numeros de catalan.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\bin\Debug\Numeros de catalan.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\obj\Debug\Numeros de catalan.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\obj\Debug\Numeros de catalan.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\obj\Debug\Numeros de catalan.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Numeros de catalan\obj\Debug\Numeros de catalan.pdb

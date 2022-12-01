@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\bin\Debug\Triangulo de Fibonacic.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\bin\Debug\Triangulo de Fibonacic.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\bin\Debug\Triangulo de Fibonacic.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\obj\Debug\Triangulo de Fibonacic.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\obj\Debug\Triangulo de Fibonacic.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\obj\Debug\Triangulo de Fibonacic.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Triangulo de Fibonacic\obj\Debug\Triangulo de Fibonacic.pdb

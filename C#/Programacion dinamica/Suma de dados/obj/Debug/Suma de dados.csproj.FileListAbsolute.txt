@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\bin\Debug\Suma de dados.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\bin\Debug\Suma de dados.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\bin\Debug\Suma de dados.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\obj\Debug\Suma de dados.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\obj\Debug\Suma de dados.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\obj\Debug\Suma de dados.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion dinamica\Suma de dados\obj\Debug\Suma de dados.pdb
