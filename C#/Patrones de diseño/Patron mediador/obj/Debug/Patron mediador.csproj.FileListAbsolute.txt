@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\bin\Debug\Patron mediador.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\bin\Debug\Patron mediador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\bin\Debug\Patron mediador.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\obj\Debug\Patron mediador.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\obj\Debug\Patron mediador.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\obj\Debug\Patron mediador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron mediador\obj\Debug\Patron mediador.pdb

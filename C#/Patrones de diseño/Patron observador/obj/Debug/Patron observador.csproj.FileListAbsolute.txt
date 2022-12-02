@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.pdb
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.exe.config
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.exe
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\bin\Debug\Patron observador.pdb
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.exe
+C:\Users\nicol\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron observador\obj\Debug\Patron observador.pdb

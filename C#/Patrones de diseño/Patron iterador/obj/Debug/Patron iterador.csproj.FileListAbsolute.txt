@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\obj\Debug\Patron iterador.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\obj\Debug\Patron iterador.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\bin\Debug\Patron iterador.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\bin\Debug\Patron iterador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\bin\Debug\Patron iterador.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\obj\Debug\Patron iterador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron iterador\obj\Debug\Patron iterador.pdb

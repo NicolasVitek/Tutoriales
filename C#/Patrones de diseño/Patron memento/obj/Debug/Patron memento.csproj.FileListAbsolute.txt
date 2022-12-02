@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\obj\Debug\Patron memento.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\obj\Debug\Patron memento.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\bin\Debug\Patron memento.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\bin\Debug\Patron memento.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\bin\Debug\Patron memento.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\obj\Debug\Patron memento.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron memento\obj\Debug\Patron memento.pdb

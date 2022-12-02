@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\bin\Debug\Patron MVC.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\bin\Debug\Patron MVC.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\bin\Debug\Patron MVC.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\obj\Debug\Patron MVC.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\obj\Debug\Patron MVC.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\obj\Debug\Patron MVC.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron MVC\obj\Debug\Patron MVC.pdb
