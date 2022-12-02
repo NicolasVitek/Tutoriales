@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\bin\Debug\Patron estrategia.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\bin\Debug\Patron estrategia.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\bin\Debug\Patron estrategia.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\obj\Debug\Patron estrategia.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\obj\Debug\Patron estrategia.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\obj\Debug\Patron estrategia.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estrategia\obj\Debug\Patron estrategia.pdb

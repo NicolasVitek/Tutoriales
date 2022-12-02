@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\bin\Debug\Patron interprete.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\bin\Debug\Patron interprete.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\bin\Debug\Patron interprete.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\obj\Debug\Patron interprete.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\obj\Debug\Patron interprete.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\obj\Debug\Patron interprete.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron interprete\obj\Debug\Patron interprete.pdb

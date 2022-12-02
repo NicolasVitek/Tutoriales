@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\bin\Debug\Patron fabrica abstracta.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\bin\Debug\Patron fabrica abstracta.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\bin\Debug\Patron fabrica abstracta.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\obj\Debug\Patron fabrica abstracta.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\obj\Debug\Patron fabrica abstracta.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\obj\Debug\Patron fabrica abstracta.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fabrica abstracta\obj\Debug\Patron fabrica abstracta.pdb

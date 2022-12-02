@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\bin\Debug\Patron fachada.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\bin\Debug\Patron fachada.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\bin\Debug\Patron fachada.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\obj\Debug\Patron fachada.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\obj\Debug\Patron fachada.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\obj\Debug\Patron fachada.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron fachada\obj\Debug\Patron fachada.pdb
