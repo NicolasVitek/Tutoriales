@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\bin\Debug\Patron prototipo.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\bin\Debug\Patron prototipo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\bin\Debug\Patron prototipo.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\obj\Debug\Patron prototipo.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\obj\Debug\Patron prototipo.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\obj\Debug\Patron prototipo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron prototipo\obj\Debug\Patron prototipo.pdb

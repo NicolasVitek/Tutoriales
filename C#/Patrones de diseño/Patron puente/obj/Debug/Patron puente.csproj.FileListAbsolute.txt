@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\obj\Debug\Patron puente.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\obj\Debug\Patron puente.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\bin\Debug\Patron puente.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\bin\Debug\Patron puente.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\bin\Debug\Patron puente.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\obj\Debug\Patron puente.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron puente\obj\Debug\Patron puente.pdb

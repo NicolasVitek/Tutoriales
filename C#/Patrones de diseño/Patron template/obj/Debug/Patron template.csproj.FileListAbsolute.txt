@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\bin\Debug\Patron template.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\bin\Debug\Patron template.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\bin\Debug\Patron template.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\obj\Debug\Patron template.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\obj\Debug\Patron template.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\obj\Debug\Patron template.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron template\obj\Debug\Patron template.pdb

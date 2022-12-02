@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\bin\Debug\Patron visitante.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\bin\Debug\Patron visitante.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\bin\Debug\Patron visitante.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\obj\Debug\Patron visitante.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\obj\Debug\Patron visitante.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\obj\Debug\Patron visitante.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron visitante\obj\Debug\Patron visitante.pdb

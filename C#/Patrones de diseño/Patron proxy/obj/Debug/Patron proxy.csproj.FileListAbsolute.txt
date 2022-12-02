@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\bin\Debug\Patron proxy.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\bin\Debug\Patron proxy.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\bin\Debug\Patron proxy.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\obj\Debug\Patron proxy.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\obj\Debug\Patron proxy.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\obj\Debug\Patron proxy.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron proxy\obj\Debug\Patron proxy.pdb
