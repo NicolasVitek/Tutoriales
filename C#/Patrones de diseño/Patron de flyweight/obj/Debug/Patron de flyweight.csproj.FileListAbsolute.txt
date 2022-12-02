@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\obj\Debug\Patron de flyweight.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\obj\Debug\Patron de flyweight.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\bin\Debug\Patron de flyweight.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\bin\Debug\Patron de flyweight.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\bin\Debug\Patron de flyweight.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\obj\Debug\Patron de flyweight.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron de flyweight\obj\Debug\Patron de flyweight.pdb

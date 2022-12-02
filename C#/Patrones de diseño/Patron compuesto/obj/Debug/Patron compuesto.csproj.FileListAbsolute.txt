@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\bin\Debug\Patron compuesto.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\bin\Debug\Patron compuesto.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\bin\Debug\Patron compuesto.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\obj\Debug\Patron compuesto.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\obj\Debug\Patron compuesto.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\obj\Debug\Patron compuesto.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron compuesto\obj\Debug\Patron compuesto.pdb

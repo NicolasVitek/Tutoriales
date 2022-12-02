@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\obj\Debug\Patron estado.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\obj\Debug\Patron estado.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\bin\Debug\Patron estado.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\bin\Debug\Patron estado.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\bin\Debug\Patron estado.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\obj\Debug\Patron estado.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron estado\obj\Debug\Patron estado.pdb
