@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\bin\Debug\Modos diferidos e inmediatos.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\bin\Debug\Modos diferidos e inmediatos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\bin\Debug\Modos diferidos e inmediatos.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\obj\Debug\Modos diferidos e inmediatos.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\obj\Debug\Modos diferidos e inmediatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\obj\Debug\Modos diferidos e inmediatos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Modos diferidos e inmediatos\obj\Debug\Modos diferidos e inmediatos.pdb

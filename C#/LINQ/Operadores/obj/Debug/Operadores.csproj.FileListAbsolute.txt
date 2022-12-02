@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\bin\Debug\Operadores.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\bin\Debug\Operadores.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\obj\Debug\Operadores.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Linq\Operadores\obj\Debug\Operadores.pdb
