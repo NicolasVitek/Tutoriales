@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\bin\Debug\Decorador.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\bin\Debug\Decorador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\bin\Debug\Decorador.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\obj\Debug\Decorador.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\obj\Debug\Decorador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Decorador\obj\Debug\Decorador.pdb

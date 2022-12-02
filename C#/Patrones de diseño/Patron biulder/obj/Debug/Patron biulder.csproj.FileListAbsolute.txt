@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\bin\Debug\Patron biulder.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\bin\Debug\Patron biulder.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\bin\Debug\Patron biulder.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\obj\Debug\Patron biulder.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\obj\Debug\Patron biulder.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\obj\Debug\Patron biulder.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron biulder\obj\Debug\Patron biulder.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\bin\Debug\Patron adaptador.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\bin\Debug\Patron adaptador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\bin\Debug\Patron adaptador.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\obj\Debug\Patron adaptador.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\obj\Debug\Patron adaptador.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\obj\Debug\Patron adaptador.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Patrones de diseño\Patron adaptador\obj\Debug\Patron adaptador.pdb
