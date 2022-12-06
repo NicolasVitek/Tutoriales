@@ -1,0 +1,15 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\bin\Debug\Video y MP3.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\bin\Debug\Video y MP3.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\bin\Debug\Video y MP3.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.csproj.ResolveComReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video_y_MP3.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video_y_MP3.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Video y MP3\obj\Debug\Video y MP3.pdb

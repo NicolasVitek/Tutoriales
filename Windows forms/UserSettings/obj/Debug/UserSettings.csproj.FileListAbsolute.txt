@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\bin\Debug\UserSettings.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\bin\Debug\UserSettings.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\bin\Debug\UserSettings.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\UserSettings\obj\Debug\UserSettings.pdb

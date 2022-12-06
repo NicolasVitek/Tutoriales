@@ -1,0 +1,148 @@
+﻿namespace WebBrowser
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Variable del diseñador necesaria.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Limpiar los recursos que se estén usando.
+        /// </summary>
+        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Código generado por el Diseñador de Windows Forms
+
+        /// <summary>
+        /// Método necesario para admitir el Diseñador. No se puede modificar
+        /// el contenido de este método con el editor de código.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
+            this.btnAtras = new System.Windows.Forms.Button();
+            this.btnAdelante = new System.Windows.Forms.Button();
+            this.btnRecargar = new System.Windows.Forms.Button();
+            this.btnStop = new System.Windows.Forms.Button();
+            this.btnHome = new System.Windows.Forms.Button();
+            this.txtUrl = new System.Windows.Forms.TextBox();
+            this.btnIr = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // webBrowser1
+            // 
+            this.webBrowser1.Location = new System.Drawing.Point(1, 35);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.Size = new System.Drawing.Size(671, 347);
+            this.webBrowser1.TabIndex = 0;
+            // 
+            // btnAtras
+            // 
+            this.btnAtras.Location = new System.Drawing.Point(1, 12);
+            this.btnAtras.Name = "btnAtras";
+            this.btnAtras.Size = new System.Drawing.Size(23, 23);
+            this.btnAtras.TabIndex = 1;
+            this.btnAtras.Text = "<";
+            this.btnAtras.UseVisualStyleBackColor = true;
+            this.btnAtras.Click += new System.EventHandler(this.btnAtras_Click);
+            // 
+            // btnAdelante
+            // 
+            this.btnAdelante.Location = new System.Drawing.Point(30, 12);
+            this.btnAdelante.Name = "btnAdelante";
+            this.btnAdelante.Size = new System.Drawing.Size(23, 23);
+            this.btnAdelante.TabIndex = 2;
+            this.btnAdelante.Text = ">";
+            this.btnAdelante.UseVisualStyleBackColor = true;
+            this.btnAdelante.Click += new System.EventHandler(this.btnAdelante_Click);
+            // 
+            // btnRecargar
+            // 
+            this.btnRecargar.Location = new System.Drawing.Point(59, 12);
+            this.btnRecargar.Name = "btnRecargar";
+            this.btnRecargar.Size = new System.Drawing.Size(23, 23);
+            this.btnRecargar.TabIndex = 3;
+            this.btnRecargar.Text = "R";
+            this.btnRecargar.UseVisualStyleBackColor = true;
+            this.btnRecargar.Click += new System.EventHandler(this.btnRecargar_Click);
+            // 
+            // btnStop
+            // 
+            this.btnStop.Location = new System.Drawing.Point(88, 12);
+            this.btnStop.Name = "btnStop";
+            this.btnStop.Size = new System.Drawing.Size(23, 23);
+            this.btnStop.TabIndex = 4;
+            this.btnStop.Text = "S";
+            this.btnStop.UseVisualStyleBackColor = true;
+            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
+            // 
+            // btnHome
+            // 
+            this.btnHome.Location = new System.Drawing.Point(117, 12);
+            this.btnHome.Name = "btnHome";
+            this.btnHome.Size = new System.Drawing.Size(23, 23);
+            this.btnHome.TabIndex = 5;
+            this.btnHome.Text = "Home";
+            this.btnHome.UseVisualStyleBackColor = true;
+            this.btnHome.Click += new System.EventHandler(this.btnHome_Click);
+            // 
+            // txtUrl
+            // 
+            this.txtUrl.Location = new System.Drawing.Point(147, 14);
+            this.txtUrl.Name = "txtUrl";
+            this.txtUrl.Size = new System.Drawing.Size(447, 20);
+            this.txtUrl.TabIndex = 6;
+            // 
+            // btnIr
+            // 
+            this.btnIr.Location = new System.Drawing.Point(600, 12);
+            this.btnIr.Name = "btnIr";
+            this.btnIr.Size = new System.Drawing.Size(23, 23);
+            this.btnIr.TabIndex = 7;
+            this.btnIr.Text = "Ir";
+            this.btnIr.UseVisualStyleBackColor = true;
+            this.btnIr.Click += new System.EventHandler(this.btnIr_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(676, 373);
+            this.Controls.Add(this.btnIr);
+            this.Controls.Add(this.txtUrl);
+            this.Controls.Add(this.btnHome);
+            this.Controls.Add(this.btnStop);
+            this.Controls.Add(this.btnRecargar);
+            this.Controls.Add(this.btnAdelante);
+            this.Controls.Add(this.btnAtras);
+            this.Controls.Add(this.webBrowser1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.WebBrowser webBrowser1;
+        private System.Windows.Forms.Button btnAtras;
+        private System.Windows.Forms.Button btnAdelante;
+        private System.Windows.Forms.Button btnRecargar;
+        private System.Windows.Forms.Button btnStop;
+        private System.Windows.Forms.Button btnHome;
+        private System.Windows.Forms.TextBox txtUrl;
+        private System.Windows.Forms.Button btnIr;
+    }
+}
+
