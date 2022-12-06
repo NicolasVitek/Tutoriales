@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\bin\Debug\Process y NotifyIcon.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\bin\Debug\Process y NotifyIcon.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\bin\Debug\Process y NotifyIcon.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process y NotifyIcon.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process_y_NotifyIcon.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process_y_NotifyIcon.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process y NotifyIcon.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process y NotifyIcon.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process y NotifyIcon.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Process y NotifyIcon\obj\Debug\Process y NotifyIcon.pdb
