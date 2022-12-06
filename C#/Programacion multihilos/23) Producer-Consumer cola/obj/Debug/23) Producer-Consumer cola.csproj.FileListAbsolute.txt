@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\bin\Debug\23) Producer-Consumer cola.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\bin\Debug\23) Producer-Consumer cola.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\bin\Debug\23) Producer-Consumer cola.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\obj\Debug\23) Producer-Consumer cola.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\obj\Debug\23) Producer-Consumer cola.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\obj\Debug\23) Producer-Consumer cola.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\23) Producer-Consumer cola\obj\Debug\23) Producer-Consumer cola.pdb

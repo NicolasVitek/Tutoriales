@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\bin\Debug\Background Worker.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\bin\Debug\Background Worker.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\bin\Debug\Background Worker.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\obj\Debug\Background Worker.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\obj\Debug\Background Worker.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\obj\Debug\Background Worker.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Background Worker\obj\Debug\Background Worker.pdb

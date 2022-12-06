@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\bin\Debug\Bloqueo.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\bin\Debug\Bloqueo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\bin\Debug\Bloqueo.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\obj\Debug\13) Bloqueo.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\obj\Debug\13) Bloqueo.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\obj\Debug\Bloqueo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Bloqueo\obj\Debug\Bloqueo.pdb

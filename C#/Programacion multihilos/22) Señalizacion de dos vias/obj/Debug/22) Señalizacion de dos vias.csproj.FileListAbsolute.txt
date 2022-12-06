@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\bin\Debug\22) Señalizacion de dos vias.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\bin\Debug\22) Señalizacion de dos vias.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\bin\Debug\22) Señalizacion de dos vias.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\obj\Debug\22) Señalizacion de dos vias.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\obj\Debug\22) Señalizacion de dos vias.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\obj\Debug\22) Señalizacion de dos vias.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\22) Señalizacion de dos vias\obj\Debug\22) Señalizacion de dos vias.pdb

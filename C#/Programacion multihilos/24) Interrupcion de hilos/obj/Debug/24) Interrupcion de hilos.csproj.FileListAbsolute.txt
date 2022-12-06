@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\bin\Debug\24) Interrupcion de hilos.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\bin\Debug\24) Interrupcion de hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\bin\Debug\24) Interrupcion de hilos.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\obj\Debug\24) Interrupcion de hilos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\obj\Debug\24) Interrupcion de hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\24) Interrupcion de hilos\obj\Debug\24) Interrupcion de hilos.pdb

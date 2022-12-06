@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\bin\Debug\Cancel.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\bin\Debug\Cancel.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\bin\Debug\Cancel.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\obj\Debug\Cancel.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\obj\Debug\Cancel.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Cancel\obj\Debug\Cancel.pdb
