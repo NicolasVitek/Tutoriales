@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\bin\Debug\3)Foreground y background.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\bin\Debug\3)Foreground y background.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\bin\Debug\3)Foreground y background.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\obj\Debug\3) Foreground y background.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\obj\Debug\3) Foreground y background.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\obj\Debug\3)Foreground y background.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\3)Foreground y background\obj\Debug\3)Foreground y background.pdb

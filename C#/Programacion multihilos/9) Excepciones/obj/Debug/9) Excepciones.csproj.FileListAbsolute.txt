@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\bin\Debug\9) Excepciones.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\bin\Debug\9) Excepciones.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\bin\Debug\9) Excepciones.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\obj\Debug\9) Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\obj\Debug\9) Excepciones.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\9) Excepciones\obj\Debug\9) Excepciones.pdb

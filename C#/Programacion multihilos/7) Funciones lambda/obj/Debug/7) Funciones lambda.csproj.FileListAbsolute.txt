@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\bin\Debug\7) Funciones lambda.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\bin\Debug\7) Funciones lambda.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\bin\Debug\7) Funciones lambda.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\obj\Debug\7) Funciones lambda.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\obj\Debug\7) Funciones lambda.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\7) Funciones lambda\obj\Debug\7) Funciones lambda.pdb

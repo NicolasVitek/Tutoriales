@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\bin\Debug\2) Multiples hilos.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\bin\Debug\2) Multiples hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\bin\Debug\2) Multiples hilos.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\obj\Debug\2) Multiples hilos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\obj\Debug\2) Multiples hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\2) Multiples hilos\obj\Debug\2) Multiples hilos.pdb

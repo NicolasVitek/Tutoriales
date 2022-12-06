@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\bin\Debug\4) Problema de sincronizacion.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\bin\Debug\4) Problema de sincronizacion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\bin\Debug\4) Problema de sincronizacion.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\obj\Debug\4) Problema de sincronizacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\obj\Debug\4) Problema de sincronizacion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\4) Problema de sincronizacion\obj\Debug\4) Problema de sincronizacion.pdb

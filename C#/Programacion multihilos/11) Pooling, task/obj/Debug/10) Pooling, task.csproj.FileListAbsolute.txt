@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\bin\Debug\11) Pooling, task.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\bin\Debug\11) Pooling, task.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\bin\Debug\11) Pooling, task.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\obj\Debug\10) Pooling, task.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\obj\Debug\11) Pooling, task.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\11) Pooling, task\obj\Debug\11) Pooling, task.pdb

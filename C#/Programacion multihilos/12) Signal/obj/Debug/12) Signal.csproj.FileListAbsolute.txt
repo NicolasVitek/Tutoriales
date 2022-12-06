@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\bin\Debug\12) Signal.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\bin\Debug\12) Signal.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\bin\Debug\12) Signal.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\obj\Debug\12) Signal.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\obj\Debug\12) Signal.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\obj\Debug\12) Signal.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\12) Signal\obj\Debug\12) Signal.pdb
