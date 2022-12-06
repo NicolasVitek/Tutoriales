@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\bin\Debug\DrawEllipse y TranslateTransform.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\bin\Debug\DrawEllipse y TranslateTransform.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\bin\Debug\DrawEllipse y TranslateTransform.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse y TranslateTransform.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse_y_TranslateTransform.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse_y_TranslateTransform.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse y TranslateTransform.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse y TranslateTransform.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse y TranslateTransform.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\DrawEllipse y TranslateTransform\obj\Debug\DrawEllipse y TranslateTransform.pdb

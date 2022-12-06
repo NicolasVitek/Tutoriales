@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\bin\Debug\FloydLayoutPanel.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\bin\Debug\FloydLayoutPanel.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\bin\Debug\FloydLayoutPanel.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\FloydLayoutPanel\obj\Debug\FloydLayoutPanel.pdb

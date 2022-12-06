@@ -1,0 +1,10 @@
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\Nicolas\source\repos\Proyecto1\ErrorProvider\obj\Debug\ErrorProvider.pdb
