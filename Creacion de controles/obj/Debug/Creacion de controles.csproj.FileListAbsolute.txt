@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\bin\Debug\Creacion de controles.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\bin\Debug\Creacion de controles.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\bin\Debug\Creacion de controles.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion de controles.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion_de_controles.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion_de_controles.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion de controles.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion de controles.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion de controles.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Creacion de controles\obj\Debug\Creacion de controles.pdb
