@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\bin\Debug\Aplicacion GDI.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\bin\Debug\Aplicacion GDI.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\bin\Debug\Aplicacion GDI.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion GDI.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion_GDI.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion_GDI.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion GDI.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion GDI.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion GDI.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion GDI\obj\Debug\Aplicacion GDI.pdb
