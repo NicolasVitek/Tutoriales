@@ -1,0 +1,10 @@
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\bin\Debug\DomainUpDown.exe.config
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\bin\Debug\DomainUpDown.exe
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\bin\Debug\DomainUpDown.pdb
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.Form1.resources
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.exe
+C:\Users\Nicolas\source\repos\Proyecto1\DomainUpDown\obj\Debug\DomainUpDown.pdb
