@@ -1,0 +1,10 @@
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\bin\Debug\ImageList.exe
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\bin\Debug\ImageList.pdb
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.Form1.resources
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.exe
+C:\Users\Nicolas\source\repos\Proyecto1\ImageList\obj\Debug\ImageList.pdb
