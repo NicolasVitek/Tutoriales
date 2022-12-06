@@ -1,0 +1,9 @@
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\bin\Debug\Timer.exe.config
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\bin\Debug\Timer.exe
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\bin\Debug\Timer.pdb
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer, trackBar y progressBar.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer, trackBar y progressBar.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer.exe
+C:\Users\Nicolas\source\repos\Proyecto1\Timer\obj\Debug\Timer.pdb
