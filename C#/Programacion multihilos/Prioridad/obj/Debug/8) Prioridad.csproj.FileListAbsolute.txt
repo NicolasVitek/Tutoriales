@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\bin\Debug\Prioridad.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\bin\Debug\Prioridad.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\bin\Debug\Prioridad.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\obj\Debug\8) Prioridad.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\obj\Debug\8) Prioridad.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\obj\Debug\Prioridad.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Prioridad\obj\Debug\Prioridad.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\bin\Debug\CountDown Event.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\bin\Debug\CountDown Event.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\bin\Debug\CountDown Event.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\obj\Debug\CountDown Event.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\obj\Debug\CountDown Event.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\obj\Debug\CountDown Event.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\CountDown Event\obj\Debug\CountDown Event.pdb

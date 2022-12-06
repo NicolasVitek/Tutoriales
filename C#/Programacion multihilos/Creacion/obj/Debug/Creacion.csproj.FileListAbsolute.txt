@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\bin\Debug\Creacion.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\bin\Debug\Creacion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\bin\Debug\Creacion.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\obj\Debug\Creacion.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\obj\Debug\Creacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\obj\Debug\Creacion.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Creacion\obj\Debug\Creacion.pdb

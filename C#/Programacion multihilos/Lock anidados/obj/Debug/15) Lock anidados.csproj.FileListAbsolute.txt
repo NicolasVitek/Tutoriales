@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\bin\Debug\Lock anidados.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\bin\Debug\Lock anidados.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\bin\Debug\Lock anidados.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\obj\Debug\15) Lock anidados.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\obj\Debug\Lock anidados.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Lock anidados\obj\Debug\Lock anidados.pdb

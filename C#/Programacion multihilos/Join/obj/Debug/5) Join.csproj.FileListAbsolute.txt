@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\bin\Debug\Join.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\bin\Debug\Join.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\bin\Debug\Join.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\obj\Debug\5) Join.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\obj\Debug\5) Join.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\obj\Debug\Join.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Join\obj\Debug\Join.pdb

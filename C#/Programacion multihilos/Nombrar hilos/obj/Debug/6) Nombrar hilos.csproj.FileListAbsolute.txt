@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\bin\Debug\Nombrar hilos.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\bin\Debug\Nombrar hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\bin\Debug\Nombrar hilos.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\obj\Debug\6) Nombrar hilos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\obj\Debug\Nombrar hilos.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\Nombrar hilos\obj\Debug\Nombrar hilos.pdb
