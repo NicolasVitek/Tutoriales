@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\bin\Debug\OpenFileDialog y SaveFileDialog.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\bin\Debug\OpenFileDialog y SaveFileDialog.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\bin\Debug\OpenFileDialog y SaveFileDialog.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog y SaveFileDialog.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog_y_SaveFileDialog.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog_y_SaveFileDialog.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog y SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog y SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog y SaveFileDialog.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\OpenFileDialog y SaveFileDialog\obj\Debug\OpenFileDialog y SaveFileDialog.pdb
