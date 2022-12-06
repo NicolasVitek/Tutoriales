@@ -1,0 +1,9 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\bin\Debug\Arrastrar y desplegar archivos.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\bin\Debug\Arrastrar y desplegar archivos.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\bin\Debug\Arrastrar y desplegar archivos.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar_y_desplegar_archivos.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar_y_desplegar_archivos.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar y desplegar archivos.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar y desplegar archivos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar y desplegar archivos.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Arrastrar y desplegar archivos\obj\Debug\Arrastrar y desplegar archivos.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\bin\Debug\Aplicacion MDI.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\bin\Debug\Aplicacion MDI.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\bin\Debug\Aplicacion MDI.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion MDI.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion_MDI.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion_MDI.Form2.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion_MDI.Form3.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion_MDI.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion MDI.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion MDI.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion MDI.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Aplicacion MDI\obj\Debug\Aplicacion MDI.pdb
