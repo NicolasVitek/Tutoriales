@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\Cotizaciones.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\Cotizaciones.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\Cotizaciones.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Cotizaciones\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

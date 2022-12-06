@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\bin\Debug\Comunicacion entre formas.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Form2.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Comunicacion_entre_formas.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Secundaria a principal.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Secundaria a principal.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Secundaria a principal\Comunicacion entre formas\obj\Debug\Comunicacion entre formas.pdb
