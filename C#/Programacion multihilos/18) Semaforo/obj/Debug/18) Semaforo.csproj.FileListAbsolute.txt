@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\bin\Debug\18) Semaforo.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\bin\Debug\18) Semaforo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\bin\Debug\18) Semaforo.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\obj\Debug\18) Semaforo.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\obj\Debug\18) Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\obj\Debug\18) Semaforo.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\18) Semaforo\obj\Debug\18) Semaforo.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\bin\Debug\16) Mutex.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\bin\Debug\16) Mutex.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\bin\Debug\16) Mutex.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\obj\Debug\16) Mutex.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\obj\Debug\16) Mutex.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\obj\Debug\16) Mutex.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\16) Mutex\obj\Debug\16) Mutex.pdb

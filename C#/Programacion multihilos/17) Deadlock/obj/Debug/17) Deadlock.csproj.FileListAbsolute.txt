@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\bin\Debug\17) Deadlock.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\bin\Debug\17) Deadlock.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\bin\Debug\17) Deadlock.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\obj\Debug\17) Deadlock.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\obj\Debug\17) Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\obj\Debug\17) Deadlock.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\17) Deadlock\obj\Debug\17) Deadlock.pdb

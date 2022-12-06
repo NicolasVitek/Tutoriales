@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\bin\Debug\20) Objeto inmutable.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\bin\Debug\20) Objeto inmutable.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\bin\Debug\20) Objeto inmutable.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\obj\Debug\20) Objeto inmutable.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\obj\Debug\20) Objeto inmutable.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\obj\Debug\20) Objeto inmutable.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\20) Objeto inmutable\obj\Debug\20) Objeto inmutable.pdb

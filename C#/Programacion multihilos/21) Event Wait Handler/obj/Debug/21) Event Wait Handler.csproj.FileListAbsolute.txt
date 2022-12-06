@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\bin\Debug\21) Event Wait Handler.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\bin\Debug\21) Event Wait Handler.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\bin\Debug\21) Event Wait Handler.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\obj\Debug\21) Event Wait Handler.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\obj\Debug\21) Event Wait Handler.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\obj\Debug\21) Event Wait Handler.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\21) Event Wait Handler\obj\Debug\21) Event Wait Handler.pdb

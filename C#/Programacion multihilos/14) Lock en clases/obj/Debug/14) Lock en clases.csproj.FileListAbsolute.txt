@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\bin\Debug\14) Lock en clases.exe.config
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\bin\Debug\14) Lock en clases.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\bin\Debug\14) Lock en clases.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\obj\Debug\14) Lock en clases.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\obj\Debug\14) Lock en clases.exe
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\obj\Debug\14) Lock en clases.pdb
+C:\Users\pc\OneDrive\Facultad\Proyectos\Programacion multihilos\14) Lock en clases\obj\Debug\14) Lock en clases.csprojAssemblyReference.cache
