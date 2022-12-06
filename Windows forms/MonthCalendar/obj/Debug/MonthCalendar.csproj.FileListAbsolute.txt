@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\bin\Debug\MonthCalendar.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\bin\Debug\MonthCalendar.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\bin\Debug\MonthCalendar.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\MonthCalendar\obj\Debug\MonthCalendar.pdb
