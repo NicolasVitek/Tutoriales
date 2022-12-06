@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\bin\Debug\Parte II.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\bin\Debug\Parte II.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\bin\Debug\Parte II.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte II.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte_II.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte_II.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte II.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte II.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte II.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Menu\Parte II\obj\Debug\Parte II.pdb

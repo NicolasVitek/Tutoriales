@@ -1,0 +1,10 @@
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\bin\Debug\Manejadores.exe.config
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\bin\Debug\Manejadores.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\bin\Debug\Manejadores.pdb
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.csprojAssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.Form1.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.exe
+C:\Users\Nicolas\OneDrive\Facultad\Proyectos\Tutorial Windows Forms\Manejadores\obj\Debug\Manejadores.pdb
